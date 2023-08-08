@@ -1,0 +1,56 @@
+{
+    "status": "ok",
+    "totalResults": 5,
+    "articles": [
+        {
+            "source": {"id": null,"name": "Hindustan Times"},
+            "author": "HT Sports Desk",
+            "title": "ICC finds Jadeja guilty, takes action after ‘ointment’ applying video goes viral - Hindustan Times",
+            "description": "Jadeja admitted the offence and accepted the sanction proposed by match referee Andy Pycroft, so there was no need for a formal hearing. | Cricket",
+            "url": "https://www.hindustantimes.com/cricket/icc-takes-action-against-ravindra-jadeja-after-ointment-applying-video-goes-viral-in-india-vs-australia-1st-test-101676107039106.html",
+            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2023/02/11/1600x900/PTI02-11-2023-000084A-0_1676107273896_1676107273896_1676107295887_1676107295887.jpg",
+            "publishedAt": "2023-02-11T09:23:39Z",
+            "content": "ICC took action against India all-rounder Ravindra Jadeja after videos of him applying something, which was later clarified by the Indian team management as a pain-relief ointment, went viral on soci… [+2395 chars]"
+        },
+        {
+            "source": {"id": null,"name": "Hindustan Times"},
+            "author": "HT Sports Desk",
+            "title": "'Batting before Kohli…': AUS legend's epic 'good Test batter' tribute to Rohit - Hindustan Times",
+            "description": "Australia legend paid the ultimate tribute to the India skipper, but with a staggering 'Virat Kohli' theory. | Cricket",
+            "url": "https://www.hindustantimes.com/cricket/batting-before-virat-kohli-australia-legend-ian-chappell-pays-the-ultimate-good-test-batter-tribute-to-rohit-sharma-after-ton-ind-vs-aus-1st-test-border-gavaskar-trophy-101676084434090.html",
+            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2023/02/11/1600x900/ANI-20230210125-0_1676084678568_1676084678568_1676084779327_1676084779327.jpg",
+            "publishedAt": "2023-02-11T03:24:39Z",
+            "content": "Australia did put up a fight, picking six wickets on Day 2, three of which came during the first session, giving them a chance at an opportunity of restricting the mighty Indian side to a low total. … [+2065 chars]"
+        },
+        {
+            "source": {"id": "bbc-sport","name": "BBC Sport"},
+            "author": null,
+            "title": "'Cricket has come home to Pakistan'",
+            "description": "Test Match Special commentator and comedian Aatif Nawaz reflects on the importance of England's historic tour to Pakistan.",
+            "url": "http://www.bbc.co.uk/sport/cricket/63955845",
+            "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/5576/production/_127987812_gettyimages-1448268827.jpg",
+            "publishedAt": "2022-12-13T10:37:25.5396172Z",
+            "content": "Pakistan fans have held up signs thanking England players for visiting throughout the tour As I sat down to begin my first commentary stint of this historic tour,I couldn 't help but smile. It felt … [+2810 chars]"
+        },
+        {
+            "source": {"id": "espn - cric - info ","name ": "ESPN Cric Info "},
+            "author": null,
+            "title": "PCB hands Umar Akmal three - year ban from all cricket | ESPNcricinfo.com ",
+            "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+            "url": "http: //www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+            "publishedAt": "2020-04-27T11:41:47Z",
+            "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+        },
+        {
+            "source": {"id": "espn-cric-info","name": "ESPN Cric Info"},
+            "author": null,
+            "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+            "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+            "publishedAt": "2020-03-30T15:26:05Z",
+            "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+        }
+    ]
+}
